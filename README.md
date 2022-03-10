@@ -31,3 +31,6 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/devrhal/count.svg" /></p>
+
+
+![snake gif](https://github.com/devrhal/devrhal/blob/output/github-contribution-grid-snake.svg)
